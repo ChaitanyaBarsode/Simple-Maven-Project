@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ULTP_162" name="com.tests.search.Test_BlankSearch" tests="1" failures="0" timestamp="4 Nov 2014 11:59:27 GMT" time="9.174" errors="0">
+  <testcase name="checkTest" time="9.164" classname="com.tests.search.Test_BlankSearch"/>
+</testsuite>
