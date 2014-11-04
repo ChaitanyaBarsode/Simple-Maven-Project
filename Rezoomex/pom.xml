@@ -3,6 +3,7 @@
   <groupId>com.synerzip.net</groupId>
   <artifactId>Rezoomex</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
   <dependencies>
   	<dependency>
   		<groupId>org.seleniumhq.selenium</groupId>
